@@ -1,0 +1,5 @@
+/home/mizia/projects/networking/build/CMakeFiles/client.dir
+/home/mizia/projects/networking/build/CMakeFiles/server.dir
+/home/mizia/projects/networking/build/CMakeFiles/ipshow.dir
+/home/mizia/projects/networking/build/CMakeFiles/edit_cache.dir
+/home/mizia/projects/networking/build/CMakeFiles/rebuild_cache.dir

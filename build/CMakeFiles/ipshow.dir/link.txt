@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ipshow.dir/src/ipshow.c.o -o ipshow 

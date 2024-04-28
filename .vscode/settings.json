@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc-11",
+    "files.associations": {
+        "*.ejs": "html",
+        "inet.h": "c",
+        "netdb.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "socket.h": "c"
+    }
+}
